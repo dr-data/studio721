@@ -95,7 +95,7 @@ export default function App({ Component, pageProps }: AppProps) {
                     }}
                   >
                     <NavLink href="/">
-                      <LogoImage src={logoUrl} />
+                      {/* <LogoImage src={logoUrl} /> */}
                     </NavLink>
                     <NavLink href="/guide">Guide</NavLink>
                     <NavLink href="/artkit">Artkit</NavLink>
@@ -112,7 +112,7 @@ export default function App({ Component, pageProps }: AppProps) {
                       },
                     }}
                   >
-                    <NavLink href="https://github.com/noya-app/studio721">
+                    {/* <NavLink href="https://github.com/noya-app/studio721">
                       <GitHubLogoIcon width={22} height={22} />
                     </NavLink>
                     <NavLink href="https://twitter.com/dvnabbott">
@@ -120,7 +120,7 @@ export default function App({ Component, pageProps }: AppProps) {
                     </NavLink>
                     <NavLink href="https://discord.gg/HWFNayQaDc">
                       <DiscordLogoIcon width={25} height={25} />
-                    </NavLink>
+                    </NavLink> */}
                   </HStack>
                 </HStack>
               </HStack>

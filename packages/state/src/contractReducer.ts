@@ -374,7 +374,7 @@ export function createInitialState(
       customMaxTokenId: undefined,
       multimint: undefined,
       price: undefined,
-      activateAutomatically: false,
+      activateAutomatically: true,
       onlyOwnerCanMint: false,
       usesUriStorage: false,
       enumerable: false,

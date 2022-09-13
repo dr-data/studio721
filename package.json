@@ -72,7 +72,7 @@
   "lint-staged": {
     "packages/**/*.{js,jsx,ts,tsx}": [
       "npx prettier --write",
-      "npx eslint --fix --max-warnings 0"
+      "npx eslint --fix --max-warnings 10"
     ]
   }
 }
