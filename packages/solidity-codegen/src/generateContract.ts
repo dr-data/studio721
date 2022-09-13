@@ -244,8 +244,7 @@ export function generateContractSource(config: ContractConfigState) {
         ],
       },
       blockComment({
-        value:
-          'This Contract Template is created by Dr.Data v1.5.0\nhttps://printact.co',
+        value: 'Contract created with Dr.Data v1.5.0\nhttps://printact.co',
         commentType: '//',
       }),
     ],

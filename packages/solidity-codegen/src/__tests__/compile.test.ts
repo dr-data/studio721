@@ -13,7 +13,7 @@ import {
 } from 'solidity-compiler';
 import { createAddress } from '@openpalette/contract';
 
-jest.setTimeout(30000);
+jest.setTimeout(40000);
 
 let compiler: SolidityCompiler;
 
