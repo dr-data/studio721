@@ -18,6 +18,7 @@ This video is first of a 4-part video walkthrough!
 
 There are currently 4 tools as part of Studio 721:
 
+
 <img align="left" width="44px" src="docs/assets/icon-guide.svg">
 <ul><ul>
 <a href="https://721.so/guide"><b>Guide</b></a><br/>
