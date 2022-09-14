@@ -15,9 +15,7 @@ A brief intro to Studio 721:
 This video is first of a 4-part video walkthrough!
 
 ## Tools
-
 There are currently 4 tools as part of Studio 721:
-
 
 <img align="left" width="44px" src="docs/assets/icon-guide.svg">
 <ul><ul>
